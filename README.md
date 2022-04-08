@@ -1,5 +1,6 @@
 ### Hi there 👋
-
+- 😄 I am a Ph.d student with State Key Laboratory for Novel Software Technology, Nanjing University.
+- 🔭 I’m currently working on data center network, programmable switches and network measurement.
 <!--
 **mmhzheng/mmhzheng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
